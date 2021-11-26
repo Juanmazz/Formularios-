@@ -1,0 +1,12 @@
+C:\Users\JUAN PABLO\source\repos\formularios\formularios\bin\Debug\formularios.exe.config
+C:\Users\JUAN PABLO\source\repos\formularios\formularios\bin\Debug\formularios.exe
+C:\Users\JUAN PABLO\source\repos\formularios\formularios\bin\Debug\formularios.pdb
+C:\Users\JUAN PABLO\source\repos\formularios\formularios\obj\Debug\formularios.csproj.AssemblyReference.cache
+C:\Users\JUAN PABLO\source\repos\formularios\formularios\obj\Debug\formularios.csproj.SuggestedBindingRedirects.cache
+C:\Users\JUAN PABLO\source\repos\formularios\formularios\obj\Debug\formularios.Form1.resources
+C:\Users\JUAN PABLO\source\repos\formularios\formularios\obj\Debug\formularios.Properties.Resources.resources
+C:\Users\JUAN PABLO\source\repos\formularios\formularios\obj\Debug\formularios.csproj.GenerateResource.cache
+C:\Users\JUAN PABLO\source\repos\formularios\formularios\obj\Debug\formularios.csproj.CoreCompileInputs.cache
+C:\Users\JUAN PABLO\source\repos\formularios\formularios\obj\Debug\formularios.exe
+C:\Users\JUAN PABLO\source\repos\formularios\formularios\obj\Debug\formularios.pdb
+C:\Users\JUAN PABLO\source\repos\formularios\formularios\obj\Debug\formularios.Form2.resources
